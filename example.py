@@ -12,7 +12,7 @@ from src.unfollow_protocol import unfollow_protocol
 bot = InstaBot(
     login="apex.shroud",  # Enter username (lowercase). Do not enter email!
     password="gaurav90049",
-    like_per_day=3600,
+    like_per_day=2400,
     comments_per_day=500,
     tag_list=["apexlegends", "apexlegendspc", "apexlegendsps4", "apexlegendsxbox"],
     tag_blacklist=["", ""],
